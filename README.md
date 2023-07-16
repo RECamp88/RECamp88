@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachel Campbell</h1>
 <h3 align="center">A passionate life-long learning Java/Angular full-stack developer</h3>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=recmp88&label=Profile%20views&color=0e75b6&style=flat" alt="recmp88" /> </p>
 
