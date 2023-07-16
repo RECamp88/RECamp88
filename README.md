@@ -1,5 +1,6 @@
+![](https://github.com/RECamp88/RECamp88/blob/main/_Orange%20Minimalist%20Technology%20LinkedIn%20Banner%20(1280%20%C3%97%20640%20px).gif)
+
 <h1 align="center">Hi 👋, I'm Rachel Campbell</h1>
----
 
 <h3 align="center">A passionate life-long learning Java/Angular full-stack developer</h3>
 <br>
