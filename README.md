@@ -41,8 +41,6 @@ I received my Bachelor of Science in Information Technology with a Software Engi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recamp88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=recamp88)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 
