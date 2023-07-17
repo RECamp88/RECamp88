@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rachel Campbell</h1>
 
-<h3 align="center">A passionate life-long learning Java/Angular full-stack developer</h3>
+<h3 align="center">A passionate life-long learner that is a Java/Angular full-stack developer</h3>
 <br>
 <h3>About Me:</h3>
 <p>
