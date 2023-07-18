@@ -6,17 +6,11 @@
 <br>
 <h3>About Me:</h3>
 <p>
-I have always been creative and have loved solving puzzles from a young age.  I have used both in my previous diverse roles, including over two decades of working with customers through technical support roles mostly in telecommunications companies.  I really believe to resolve an issue you have to be willing to look at the basics, see how every component works together, and then ask the correct questions. For me, these questions usually begin with, “What if”.
+As a seasoned professional with a passion for creativity and a lifelong fascination with puzzles, I have consistently applied these attributes throughout my diverse career, spanning almost two decades in technical support roles. My unwavering belief in the power of understanding the fundamentals and the interconnectedness of components drives me to ask the most pertinent questions, often beginning with the simple phrase, "What if."
 
-I received my Bachelor of Science in Information Technology with a Software Engineering focus from the University of Phoenix. I took a very scenic route to get there, but ultimately, it is my curiosity about what could be that sparked my interest in coding. Whether it is making music, jewelry, art, or programming, I want to keep expanding my knowledge to continue creating what some considered impossible. 
+Fueling my enthusiasm for coding and technology, I pursued and successfully earned a Bachelor of Science in Information Technology with a focus on Software Engineering from the University of Phoenix, taking a unique and enriching path to get there.
 
--⚡ Fun facts:
-<ul>
-  <li>I enjoy camping and aspire to see all the National Forests in the United States.</li>
-  <li>I make wire-wrapped jewelry and enjoy making ZenTangle art in my pass time. </li>
-  <li>I have learned to love vegetable gardening and even started a Facebook group to share with others. </li>
-  <li>I enjoy turning old items into new and useful things.</li>
-</ul>
+Whether it's crafting music, jewelry, art, or writing code, my insatiable curiosity for what lies beyond the surface motivates me to continually expand my knowledge and expertise. I find genuine fulfillment in creating innovative solutions and view each problem as an opportunity for imaginative problem-solving.
 </p>
 <br>
 
