@@ -80,9 +80,7 @@ Whether it's crafting music, jewelry, art, or writing code, my insatiable curios
 <hr>
 <div align="center">
   <h3>🔥 My Stats 🔥</h3>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=recamp88&theme=dark">
-  </a>
+ 
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=recamp88&theme=tokyonight">
